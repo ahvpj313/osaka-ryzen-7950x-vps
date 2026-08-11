@@ -1,0 +1,1 @@
+# osaka-ryzen-7950x-vps
